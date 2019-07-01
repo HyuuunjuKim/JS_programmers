@@ -13,6 +13,7 @@ do {
     console.log("이 구문은 한 번은 실행됩니다.")
 }while(cond);
 
+
 do {
     var ans = parseInt( prompt("1+1=?"));
 } while (ans != 2);
